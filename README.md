@@ -57,16 +57,8 @@
 ## 🧩 Showcase (flagship work)
 
 
-### **LocalMind OS**  — *Knowledge + Workflow System*
-**Goal:** reduce mental load by organizing tasks, notes, and learning into one system.  
-**What ships:** structured capture, retrieval-first organization, dashboards.  
-**Tech:** React, JavaScript, Python (planned ML layer).  
-**Repo:** (add-link)
-
-### **SkillSense AI** — *Skill Gap Scoring + Roadmap*
-**Goal:** convert skill inputs into a score and a personalized improvement plan.  
-**What ships:** skill-gap signals, roadmap generation, next-action recommendations.  
-**Tech:** Python, ML logic, structured output templates.  
+### **MetroFlowNet**  — *Adaptive Multi-Feature Fusion for Passenger Movement Prediction*
+**Goal:** MetroFlowNet is an intelligent system designed to simplify and optimize passenger movement prediction by integrating multiple data features into a unified analytical model. 
 **Repo:** (add-link)
 
 ### **MoM Automation** — *Minutes of Meeting Generator*
@@ -74,13 +66,6 @@
 **What ships:** consistent templates, clean formatting, workflow automation.  
 **Tech:** NLP or LLM prompting, Python, optional web UI.  
 **Repo:** (add-link)
-
-### **Customer Insight Extraction** — *Infosys Springboard*
-**Goal:** convert customer feedback into decision-ready insights.  
-**What ships:** themes, sentiment cues, summary reports.  
-**Tech:** Python, Pandas, text processing.  
-**Repo:** (add-link)
-
 ---
 
 ## 🧠 Build Style (the “designer” part)
