@@ -1,5 +1,5 @@
 <!-- =========================================================
-  Vinay Kalacharla • GitHub Profile README (Designer-grade / 1% vibe)
+  Nithin Rayapureddy • GitHub Profile README (Designer-grade / 1% vibe)
   Paste into: Vinaykalacharla/Vinaykalacharla README.md
   Tip: Replace placeholders like (repo-link) with your real repo URLs.
 ========================================================= -->
@@ -12,16 +12,13 @@
 <br/><br/>
 
 <!-- PREMIUM SOCIAL BAR -->
-<a href="https://www.linkedin.com/in/vinay-kalacharla-2243252b9/" target="_blank">
+<a href="https://www.linkedin.com/in/nithin-rayapureddy-7202462a4/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Vinaykalacharla" target="_blank">
+<a href="https://github.com/Rnithins" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.vinayk.in" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:vinay11012006@gmail.com" target="_blank">
+<a href="mailto:rayapureddynithin" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
