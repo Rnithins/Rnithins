@@ -116,17 +116,6 @@
 
 
 ---
-
-## 📈 Proof (stats, clean theme)
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vinaykalacharla&show_icons=true&hide_border=true&theme=transparent" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykalacharla&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🎯 Open to (2026)
 - **Product Engineering Intern**  
 - **Frontend Intern (React)**  
@@ -135,9 +124,8 @@
 ---
 
 ## 📬 Contact
-- **Email:** vinay11012006@gmail.com  
-- **LinkedIn:** linkedin.com/in/vinay-kalacharla-2243252b9  
-- **Portfolio:** www.vinayk.in  
+- **Email:** rayapureddynithin@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nithin-rayapureddy-7202462a4/
 
 <div align="center">
   <sub>Design discipline + engineering execution. Ship real products.</sub>
