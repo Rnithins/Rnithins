@@ -8,7 +8,6 @@
 
 <!-- HERO (clean + premium) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,50:111827,100:1D4ED8&text=RAYAPUREDDY%20NITHIN&fontSize=44&fontAlignY=42&fontColor=FFFFFF&desc=Product%20Engineer%20(Web%20%2B%20AI)%20%7C%20React%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=70&descSize=16" alt="hero"/>
-/>
 
 <br/><br/>
 
@@ -61,18 +60,17 @@
 **Goal:** MetroFlowNet is an intelligent system designed to simplify and optimize passenger movement prediction by integrating multiple data features into a unified analytical model. 
 **Repo:** (add-link)
 
-### **MoM Automation** — *Minutes of Meeting Generator*
-**Goal:** meeting text to summary, decisions, action items, owners.  
-**What ships:** consistent templates, clean formatting, workflow automation.  
-**Tech:** NLP or LLM prompting, Python, optional web UI.  
-**Repo:** (add-link)
----
+### *SkillSense AI* — Skill Gap Scoring + Roadmap
+*Goal:* convert skill inputs into a score and a personalized improvement plan.  
+*Repo:* (add-link)
 
-## 🧠 Build Style (the “designer” part)
-- **Minimal UI, maximum clarity** (no clutter)  
-- **Consistency:** naming, folders, components, outputs  
-- **README-first:** quickstart, screenshots, sample inputs/outputs  
-- **Demo-ready:** every project has a clean story: problem → solution → results  
+### *MoM Automation* — Minutes of Meeting Generator
+*Goal:* meeting text to summary, decisions, action items, owners.  
+*Repo:* (add-link)
+
+### AI-Enabled Visa Status Prediction and Processing Time Estimator* — Infosys Springboard
+*Goal:* This project is an AI-powered system that predicts both visa approval status and estimated processing time by analyzing historical applicant data. It helps applicants and authorities make faster, data-driven decisions. 
+*Repo:* (add-link)
 
 ---
 
