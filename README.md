@@ -7,7 +7,8 @@
 <div align="center">
 
 <!-- HERO (clean + premium) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,50:111827,100:1D4ED8&text=VINAY%20KALACHARLA&fontSize=44&fontAlignY=42&fontColor=FFFFFF&desc=Product%20Engineer%20(Web%20%2B%20AI)%20%7C%20React%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=70&descSize=16" alt="hero" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,50:111827,100:1D4ED8&text=RAYAPUREDDY%20NITHIN&fontSize=44&fontAlignY=42&fontColor=FFFFFF&desc=Product%20Engineer%20(Web%20%2B%20AI)%20%7C%20React%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=70&descSize=16" alt="hero"/>
+/>
 
 <br/><br/>
 
