@@ -102,7 +102,7 @@
 ---
 ## 🎯 Open to (2026)
 - **Product Engineering Intern**  
-- **Frontend Intern (React)**  
+- **Frontend Intern (React/Angular)**  
 - **Applied AI / ML Intern**  
 
 ---
